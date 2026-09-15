@@ -1,0 +1,11 @@
+transaction_id,account_number,account_holder,type,amount,date
+1,ACC1001,Arifa,Deposit,5000,2026-09-01
+2,ACC1001,Arifa,Withdrawal,1500,2026-09-02
+3,ACC1002,Rahul,Deposit,8000,2026-09-02
+4,ACC1001,Arifa,Deposit,2500,2026-09-03
+5,ACC1002,Rahul,Withdrawal,2000,2026-09-03
+6,ACC1003,Ananya,Deposit,10000,2026-09-04
+7,ACC1003,Ananya,Withdrawal,3500,2026-09-05
+8,ACC1001,Arifa,Withdrawal,1000,2026-09-05
+9,ACC1002,Rahul,Deposit,4000,2026-09-06
+10,ACC1003,Ananya,Deposit,3000,2026-09-06
